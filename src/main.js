@@ -6,10 +6,25 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+
+//引入初始化css和字体图标
+import './assets/css/reset.css';
+import './assets/css/iconfont.css';
+
+
+
+//引入js(fastclick，解决移动端300ms点击延迟)
+import FastClick from 'fastclick';
+FastClick.attach(document.body); //引入此js,并写attach方法
+
+
+
+
+
 /* eslint-disable no-new */
 new Vue({
-  el: '#app',
-  router,
-  components: { App },
-  template: '<App/>'
+    el: '#app',
+    router,
+    components: { App },
+    template: '<App/>'
 })
