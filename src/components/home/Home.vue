@@ -5,6 +5,7 @@
     <home-icons></home-icons>
     <home-location></home-location>
     <home-activity></home-activity>
+    <home-hot></home-hot>
   </div>
 </template>
 
@@ -14,6 +15,7 @@ import HomeSwiper from "./pages/Swiper";
 import HomeIcons from "./pages/Icons";
 import HomeLocation from "./pages/Location";
 import HomeActivity from "./pages/Activity";
+import HomeHot from "./pages/Hot";
 
 export default {
   name: "Home",
@@ -22,7 +24,8 @@ export default {
     HomeSwiper,
     HomeIcons,
     HomeLocation,
-    HomeActivity
+    HomeActivity,
+    HomeHot
   }
 };
 </script>

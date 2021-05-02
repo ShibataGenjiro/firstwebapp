@@ -91,7 +91,10 @@ export default {
 };
 </script>
 
-<style scoped>
+<style scoped lang="stylus">
+
+@import '~css/common.styl';
+
 * {
   touch-action: pan-y;
 }
@@ -123,5 +126,6 @@ export default {
   text-align: center;
   color: #212121;
   font-weight: 500;
+  textOverflow();
 }
 </style>
