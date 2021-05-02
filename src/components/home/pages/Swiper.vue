@@ -30,8 +30,7 @@ export default {
       ],
       swiperOptions: {
         pagination: {
-          el: ".swiper-pagination",
-          paginationClickable: true
+          el: ".swiper-pagination"
         },
         loop: true
       }
