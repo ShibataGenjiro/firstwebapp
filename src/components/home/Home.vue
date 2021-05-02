@@ -1,9 +1,10 @@
 <template>
-  <div>
+  <div class="home">
     <home-header></home-header>
     <home-swiper></home-swiper>
     <home-icons></home-icons>
     <home-location></home-location>
+    <home-activity></home-activity>
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import HomeHeader from "./pages/Header";
 import HomeSwiper from "./pages/Swiper";
 import HomeIcons from "./pages/Icons";
 import HomeLocation from "./pages/Location";
+import HomeActivity from "./pages/Activity";
 
 export default {
   name: "Home",
@@ -19,9 +21,14 @@ export default {
     HomeHeader,
     HomeSwiper,
     HomeIcons,
-    HomeLocation
+    HomeLocation,
+    HomeActivity
   }
 };
 </script>
 
-<style></style>
+<style scoped>
+.home {
+  background-color: #f5f5f5;
+}
+</style>

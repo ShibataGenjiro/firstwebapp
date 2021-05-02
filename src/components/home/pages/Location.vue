@@ -19,6 +19,7 @@ export default {};
 .location {
   position: relative;
   display: flex;
+  background-color: #fff;
 }
 .location .location-item {
   flex: 1;

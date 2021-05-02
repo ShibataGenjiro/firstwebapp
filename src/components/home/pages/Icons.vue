@@ -99,6 +99,7 @@ export default {
 .icons {
   width: 100%;
   overflow: hidden;
+  background-color: #fff;
 }
 
 .icons-item {
