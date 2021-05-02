@@ -16,7 +16,9 @@
 </template>
 
 <script>
-export default {};
+export default {
+  name: "HomeHeader"
+};
 </script>
 
 <style scoped lang="stylus">

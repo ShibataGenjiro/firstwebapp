@@ -18,7 +18,11 @@ import FastClick from 'fastclick';
 FastClick.attach(document.body); //引入此js,并写attach方法
 
 
-
+//引入swiper组件
+import VueAwesomeSwiper from 'vue-awesome-swiper';
+//import 'swiper/dist/css/swiper.css';
+import 'swiper/swiper-bundle.css';
+Vue.use(VueAwesomeSwiper);
 
 
 /* eslint-disable no-new */
