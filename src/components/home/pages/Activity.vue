@@ -22,7 +22,7 @@ export default {};
   margin-top: 0.2rem;
   position: relative;
   display: flex;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 .activity .activity-item {
   flex: 1;
