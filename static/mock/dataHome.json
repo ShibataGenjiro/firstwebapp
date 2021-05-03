@@ -1,0 +1,271 @@
+{
+    "data": [{
+            "city": "北京",
+            "swiperList": [{
+                    "id": "01",
+                    "imgUrl": "/api/img/swiper1.jpg"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "/api/img/swiper2.jpg"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "/api/img/swiper3.jpg"
+                }
+            ],
+            "iconsList": [{
+                    "id": "01",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/piao.png",
+                    "title": "景点门票"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png",
+                    "title": "必游榜单"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/train.png",
+                    "title": "夏日玩水"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/flight.png",
+                    "title": "主题乐园"
+                },
+                {
+                    "id": "05",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+                    "title": "动植物园"
+                },
+                {
+                    "id": "06",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/piao.png",
+                    "title": "故宫"
+                },
+                {
+                    "id": "07",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png",
+                    "title": "一日游"
+                },
+                {
+                    "id": "08",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/train.png",
+                    "title": "公园"
+                },
+                {
+                    "id": "09",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/flight.png",
+                    "title": "游乐场"
+                },
+                {
+                    "id": "10",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+                    "title": "全部玩乐"
+                }
+            ],
+            "hotList": [{
+                    "id": "01",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_250x250_0fc722c0.jpg",
+                    "title": "故宫",
+                    "mark": "20.0"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/2005/39/3979f1867defec4ea3.water.jpg_250x250_e1b08a5e.jpg",
+                    "title": "八达岭长城",
+                    "mark": "40.0"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/2005/30/307fa37039eab5cba3.water.jpg_250x250_d76001d5.jpg",
+                    "title": "颐和园",
+                    "mark": "34.5"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1507/cc/19733fc0135062788140cbb48ae606a7.water.jpg_250x250_48713510.jpg",
+                    "title": "北京野生动物园",
+                    "mark": "200.0"
+                },
+                {
+                    "id": "05",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/92/920e47352552c1c990.water.jpg_250x250_ee99c18e.jpg",
+                    "title": "天坛",
+                    "mark": "18.0"
+                }
+            ],
+            "likeList": [{
+                    "id": "01",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/f5/f5f45e1a83537bcb.water.jpg_200x200_444cc7e8.jpg",
+                    "title": "圆明园",
+                    "msg": "55583",
+                    "pre": "10.0",
+                    "map": "海淀区"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/68/68aa05adb5315f9990.water.jpg_200x200_ce3d2658.jpg",
+                    "title": "北京海洋馆",
+                    "msg": "11110",
+                    "pre": "175.0",
+                    "map": "西城区"
+                }
+            ],
+            "vacationList": [{
+                    "id": "01",
+                    "imgUrl": "http://img1.qunarzz.com/sight/source/1811/f3/86173f863bef61.jpg_r_640x214_52b003ac.jpg",
+                    "title": "京城周末必去",
+                    "msg": "在帝都过周末，不仅仅是城中游！"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "http://img1.qunarzz.com/sight/source/1505/aa/7baaf8a851d221.jpg_r_640x214_1431200f.jpg",
+                    "title": "寻找北京的皇城范儿",
+                    "msg": "来北京必去的景点非这些地方莫属"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9e/21df651e19af5d.jpg_r_640x214_3ea5bb38.jpg",
+                    "title": "京城周末必去",
+                    "msg": "数百年的宫廷庙宇，至今依旧威严霸气"
+                }
+            ]
+        },
+        {
+            "city": "上海",
+            "swiperList": [{
+                    "id": "01",
+                    "imgUrl": "/api/img/swiper1.jpg"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "/api/img/swiper2.jpg"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "/api/img/swiper3.jpg"
+                }
+            ],
+            "iconsList": [{
+                    "id": "01",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/piao.png",
+                    "title": "景点门票"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png",
+                    "title": "必游榜单"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/train.png",
+                    "title": "夏日玩水"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/flight.png",
+                    "title": "主题乐园"
+                },
+                {
+                    "id": "05",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+                    "title": "动植物园"
+                },
+                {
+                    "id": "06",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/piao.png",
+                    "title": "东方明珠"
+                },
+                {
+                    "id": "07",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png",
+                    "title": "一日游"
+                },
+                {
+                    "id": "08",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/train.png",
+                    "title": "公园"
+                },
+                {
+                    "id": "09",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/flight.png",
+                    "title": "游乐场"
+                },
+                {
+                    "id": "10",
+                    "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+                    "title": "全部玩乐"
+                }
+            ],
+            "hotList": [{
+                    "id": "01",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_250x250_0fc722c0.jpg",
+                    "title": "假的东方明珠",
+                    "mark": "20.0"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/2005/39/3979f1867defec4ea3.water.jpg_250x250_e1b08a5e.jpg",
+                    "title": "假的欢乐谷",
+                    "mark": "40.0"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/2005/30/307fa37039eab5cba3.water.jpg_250x250_d76001d5.jpg",
+                    "title": "假的迪士尼乐园",
+                    "mark": "34.5"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1507/cc/19733fc0135062788140cbb48ae606a7.water.jpg_250x250_48713510.jpg",
+                    "title": "假的复旦大学",
+                    "mark": "200.0"
+                },
+                {
+                    "id": "05",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/92/920e47352552c1c990.water.jpg_250x250_ee99c18e.jpg",
+                    "title": "假的上海交大",
+                    "mark": "18.0"
+                }
+            ],
+            "likeList": [{
+                    "id": "01",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/f5/f5f45e1a83537bcb.water.jpg_200x200_444cc7e8.jpg",
+                    "title": "假的金茂大厦",
+                    "msg": "55583",
+                    "pre": "10.0",
+                    "map": "海淀区"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/68/68aa05adb5315f9990.water.jpg_200x200_ce3d2658.jpg",
+                    "title": "假的外滩",
+                    "msg": "11110",
+                    "pre": "175.0",
+                    "map": "西城区"
+                }
+            ],
+            "vacationList": [{
+                    "id": "01",
+                    "imgUrl": "http://img1.qunarzz.com/sight/source/1811/f3/86173f863bef61.jpg_r_640x214_52b003ac.jpg",
+                    "title": "上海周末必去",
+                    "msg": "在上海过周末，不仅仅是城中游！"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "http://img1.qunarzz.com/sight/source/1505/aa/7baaf8a851d221.jpg_r_640x214_1431200f.jpg",
+                    "title": "寻找上海的皇城范儿",
+                    "msg": "来上海必去的景点非这些地方莫属"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9e/21df651e19af5d.jpg_r_640x214_3ea5bb38.jpg",
+                    "title": "魔都周末必去",
+                    "msg": "数百年的宫廷庙宇，至今依旧威严霸气"
+                }
+            ]
+        }
+    ]
+}

@@ -21,46 +21,9 @@
 
 <script>
 export default {
+  props: ["hotList"],
   data() {
-    return {
-      hotList: [
-        {
-          id: "01",
-          imgUrl:
-            "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_250x250_0fc722c0.jpg",
-          title: "故宫",
-          mark: "20.0"
-        },
-        {
-          id: "02",
-          imgUrl:
-            "http://img1.qunarzz.com/sight/p0/2005/39/3979f1867defec4ea3.water.jpg_250x250_e1b08a5e.jpg",
-          title: "八达岭长城",
-          mark: "40.0"
-        },
-        {
-          id: "03",
-          imgUrl:
-            "http://img1.qunarzz.com/sight/p0/2005/30/307fa37039eab5cba3.water.jpg_250x250_d76001d5.jpg",
-          title: "颐和园",
-          mark: "34.5"
-        },
-        {
-          id: "04",
-          imgUrl:
-            "http://img1.qunarzz.com/sight/p0/1507/cc/19733fc0135062788140cbb48ae606a7.water.jpg_250x250_48713510.jpg",
-          title: "北京野生动物园",
-          mark: "200.0"
-        },
-        {
-          id: "05",
-          imgUrl:
-            "http://img1.qunarzz.com/sight/p0/1602/92/920e47352552c1c990.water.jpg_250x250_ee99c18e.jpg",
-          title: "天坛",
-          mark: "18.0"
-        }
-      ]
-    };
+    return {};
   }
 };
 </script>

@@ -25,10 +25,20 @@ import 'swiper/swiper-bundle.css';
 Vue.use(VueAwesomeSwiper);
 
 
+//axios
+import axios from 'axios';
+Vue.prototype.$http = axios;
+
+
+//vuex
+import store from './store'
+
+
 /* eslint-disable no-new */
 new Vue({
     el: '#app',
     router,
+    store,
     components: { App },
     template: '<App/>'
 })

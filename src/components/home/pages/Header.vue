@@ -11,13 +11,29 @@
       </span>
       输入城市/景点/游玩主题
     </div>
-    <div class="header-right">北京 <span class="iconfont">&#xe6aa;</span></div>
+    <div class="header-right">
+      <router-link to="/city">
+        <!-- {{ $store.state.city }}  -->
+        {{ city }}
+        <span class="iconfont">&#xe6aa;</span>
+      </router-link>
+    </div>
   </div>
 </template>
 
 <script>
+import { mapState } from "vuex";
+
 export default {
-  name: "HomeHeader"
+  name: "HomeHeader",
+  methods: {
+    // toCity() {
+    //   this.$router.push("/city");
+    // }
+  },
+  computed: {
+    ...mapState(["city"])
+  }
 };
 </script>
 
@@ -58,5 +74,9 @@ export default {
   font-size: 0.28rem;
   padding: 0 0.2rem;
 
+}
+
+.header-right a{
+  color: #fff;
 }
 </style>
